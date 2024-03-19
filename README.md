@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hej, nice to meet you here 👋
+I'm Skai and I like the freedom of the open source world. There are a lot of great projects out there. Thanks for your dedication :3
+
+🔭 I'm currently working on a small project called [oats-rs](https://github.com/Skailys/oats-rs). A simple rust library for distributed ids.
+
+🌱 While I'm preparing for my final exams, I'm learning different concepts and libraries in languages like Python or Rustlang.
+
+📫 How to reach me: Just write an email if you want to contact me.
+
+😄 Pronouns: You can use any pronouns you feel comfortable with.
 
 <!--
 **Skailys/Skailys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
