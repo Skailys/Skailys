@@ -7,7 +7,7 @@ I'm Skai and I like the freedom of the open source world. There are a lot of gre
 
 📫 How to reach me: Just write an email if you want to contact me.
 
-😄 Pronouns: You can use any pronouns you feel comfortable with.
+😄 Pronouns: Please use they/she.. thank u <3
 
 <!--
 **Skailys/Skailys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
