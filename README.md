@@ -3,7 +3,7 @@ I'm Skai and I like the freedom of the open source world. There are a lot of gre
 
 🔭 I'm currently working on a small project called [oats-rs](https://github.com/Skailys/oats-rs). A simple rust library for distributed ids.
 
-🌱 While I'm preparing for my final exams, I'm learning different concepts and libraries in languages like Python or Rustlang.
+🌱 While I'm studying electrical engineering I'm focused on learning C and logic orianted languages.
 
 📫 How to reach me: Just write an email if you want to contact me.
 
